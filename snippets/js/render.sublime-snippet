@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-render() {
+render: function() {
 	return (
 		${1:<div />}
 	);
@@ -8,5 +8,5 @@ render() {
 ]]></content>
     <tabTrigger>ren</tabTrigger>
     <scope>source.js</scope>
-    <description>React: render() { return ... }</description>
+    <description>React: render: fn() { return ... }</description>
 </snippet>

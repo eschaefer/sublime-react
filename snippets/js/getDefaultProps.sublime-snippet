@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-getDefaultProps() {
+getDefaultProps: function() {
 	return {
 		${1}
 	};
@@ -8,5 +8,5 @@ getDefaultProps() {
 ]]></content>
     <tabTrigger>gdp</tabTrigger>
     <scope>source.js</scope>
-    <description>React: getDefaultProps() { return {...} } </description>
+    <description>React: getDefaultProps: fn() { return {...} } </description>
 </snippet>

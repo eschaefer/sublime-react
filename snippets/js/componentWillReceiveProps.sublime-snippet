@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-componentWillReceiveProps(nextProps) {
+componentWillReceiveProps: function(nextProps) {
 	${1}
 },
 ]]></content>
     <tabTrigger>cwr</tabTrigger>
     <scope>source.js</scope>
-    <description>React: componentWillReceiveProps(np) { ... }</description>
+    <description>React: componentWillReceiveProps: fn(np) { ... }</description>
 </snippet>
