@@ -15,6 +15,6 @@ var ${1} = React.createClass({
 module.exports = ${1};
 ]]></content>
     <tabTrigger>rcc</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: component skeleton</description>
 </snippet>

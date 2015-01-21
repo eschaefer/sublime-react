@@ -5,6 +5,6 @@ componentDidUpdate(prevProps, prevState) {
 },
 ]]></content>
     <tabTrigger>cdup</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: componentDidUpdate(pp, ps) { ... }</description>
 </snippet>

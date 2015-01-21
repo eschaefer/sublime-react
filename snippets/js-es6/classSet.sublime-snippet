@@ -3,6 +3,6 @@
 var cx = React.addons.classSet;
 ]]></content>
     <tabTrigger>cs</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: var cx = React.addons.classSet;</description>
 </snippet>

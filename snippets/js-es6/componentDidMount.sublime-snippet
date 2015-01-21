@@ -5,6 +5,6 @@ componentDidMount() {
 },
 ]]></content>
     <tabTrigger>cdm</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: componentDidMount() { ... }</description>
 </snippet>

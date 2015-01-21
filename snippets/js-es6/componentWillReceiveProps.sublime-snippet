@@ -5,6 +5,6 @@ componentWillReceiveProps(nextProps) {
 },
 ]]></content>
     <tabTrigger>cwr</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: componentWillReceiveProps(np) { ... }</description>
 </snippet>

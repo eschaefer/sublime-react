@@ -3,6 +3,6 @@
 transferPropsTo(${1});
 ]]></content>
     <tabTrigger>trp</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: transferPropsTo( ... )</description>
 </snippet>

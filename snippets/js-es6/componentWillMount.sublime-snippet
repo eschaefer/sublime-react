@@ -5,6 +5,6 @@ componentWillMount() {
 },
 ]]></content>
     <tabTrigger>cwm</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: componentWillMount() { ... }</description>
 </snippet>

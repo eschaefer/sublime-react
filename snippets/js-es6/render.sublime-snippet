@@ -7,6 +7,6 @@ render() {
 }
 ]]></content>
     <tabTrigger>ren</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: render() { return ... }</description>
 </snippet>

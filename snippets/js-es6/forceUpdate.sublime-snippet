@@ -3,6 +3,6 @@
 forceUpdate(${1:callback});
 ]]></content>
     <tabTrigger>fup</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: forceUpdate(...)</description>
 </snippet>

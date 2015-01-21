@@ -5,6 +5,6 @@ componentWillUpdate(nextProps, nextState) {
 },
 ]]></content>
     <tabTrigger>cwu</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: componentWillUpdate(np, ns) { ... }</description>
 </snippet>

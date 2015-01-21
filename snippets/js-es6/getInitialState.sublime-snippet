@@ -7,6 +7,6 @@ getInitialState() {
 },
 ]]></content>
     <tabTrigger>gis</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source-es6.js</scope>
     <description>React: getInitialState() { return {...} } </description>
 </snippet>
