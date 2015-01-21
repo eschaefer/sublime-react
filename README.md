@@ -2,6 +2,8 @@
 
 Snippets and syntax highlighting for React.js / JSX.
 
+*Updated for ES6 syntax*
+
 ![alt tag](https://raw.github.com/jgebhardt/sublime-react/master/docs/img/sr-rcc-out.gif)
 
 ## Installation
@@ -12,9 +14,13 @@ You will need the Sublime [Package Manager](https://sublime.wbond.net/installati
 
 - Open the command palette: `⌘+shift+p` on MacOS/Linux, `ctrl+shift+p` on Windows
 
-- type `install`, select `Package Control: Install Package`
+- type `package`, select `Package Control: Add Repository`
 
-- type `React`, select `ReactJS`
+- paste in the address of this Github URL: `https://github.com/eschaefer/sublime-react`
+
+- Again open the command palette, type `install`, select `Package Control: Install Package`
+-- type `React`, select `sublime-react`, note the source is this Github repo, and select that package.
+
 
 ## Usage
 
@@ -41,27 +47,27 @@ Snippets are available for both JSX and CJSX ([React CoffeeScript](https://githu
 #### Documentation of available snippets (JSX):
 
 ```
-    cdm→  componentDidMount: fn() { ... }
+    cdm→  componentDidMount() { ... }
 
-   cdup→  componentDidUpdate: fn(pp, ps) { ... }
+   cdup→  componentDidUpdate(pp, ps) { ... }
 
      cs→  var cx = React.addons.classSet;
 
-    cwm→  componentWillMount: fn() { ... }
+    cwm→  componentWillMount() { ... }
 
-    cwr→  componentWillReceiveProps: fn(np) { ... }
+    cwr→  componentWillReceiveProps(np) { ... }
 
-    cwu→  componentWillUpdate: fn(np, ns) { ... }
+    cwu→  componentWillUpdate(np, ns) { ... }
 
-   cwun→  componentWillUnmount: fn() { ... }
+   cwun→  componentWillUnmount() { ... }
 
      cx→  cx({ ... })
 
     fup→  forceUpdate(...)
 
-    gdp→  getDefaultProps: fn() { return {...} } 
+    gdp→  getDefaultProps() { return {...} }
 
-    gis→  getInitialState: fn() { return {...} } 
+    gis→  getInitialState() { return {...} }
 
     ism→  isMounted()
 
@@ -73,9 +79,9 @@ Snippets are available for both JSX and CJSX ([React CoffeeScript](https://githu
 
     rcc→  component skeleton
 
-    ren→  render: fn() { return ... }
+    ren→  render() { return ... }
 
-    scu→  shouldComponentUpdate: fn(np, ns) { ... }
+    scu→  shouldComponentUpdate(np, ns) { ... }
 
     sst→  setState({ ... })
 
