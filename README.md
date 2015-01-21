@@ -20,7 +20,7 @@ You will need the Sublime [Package Manager](https://sublime.wbond.net/installati
 
 - Again open the command palette, type `install`, select `Package Control: Install Package`
 
--- type `React`, select `sublime-react`, note the source is this Github repo, and select that package.
+- type `React`, select `sublime-react`, note the source is this Github repo, and select that package.
 
 
 ## Usage
