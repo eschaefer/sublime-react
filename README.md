@@ -4,7 +4,7 @@ Snippets and syntax highlighting for React.js / JSX.
 
 *Updated for ES6 syntax*
 
-![alt tag](https://raw.github.com/jgebhardt/sublime-react/master/docs/img/sr-rcc-out.gif)
+![alt tag](https://raw.github.com/eschaefer/sublime-react/master/docs/img/sr-rcc-out.gif)
 
 ## Installation
 
