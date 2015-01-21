@@ -19,6 +19,7 @@ You will need the Sublime [Package Manager](https://sublime.wbond.net/installati
 - paste in the address of this Github URL: `https://github.com/eschaefer/sublime-react`
 
 - Again open the command palette, type `install`, select `Package Control: Install Package`
+
 -- type `React`, select `sublime-react`, note the source is this Github repo, and select that package.
 
 
