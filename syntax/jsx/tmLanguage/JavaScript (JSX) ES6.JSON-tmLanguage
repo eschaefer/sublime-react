@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript (JSX)",
+  "name": "JavaScript (JSX) ES6",
   "scopeName": "source.js",
   "fileTypes": ["js", "htc", "jsx"],
   "patterns": [
@@ -13,7 +13,6 @@
       "name": "comment.line.js",
       "match": "^#![\\S]+ node"
     },
-
 
 
     "string-quoted-single": {

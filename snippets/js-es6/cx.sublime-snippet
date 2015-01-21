@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-cx({ $1: $2 });
-]]></content>
-    <tabTrigger>cx</tabTrigger>
-    <scope>source-es6.js</scope>
-    <description>React: cx({ ... })</description>
-</snippet>

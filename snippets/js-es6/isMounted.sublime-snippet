@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-isMounted()
-]]></content>
-    <tabTrigger>ism</tabTrigger>
-    <scope>source-es6.js</scope>
-    <description>React: isMounted()</description>
-</snippet>
